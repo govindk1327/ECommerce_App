@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ECommerce App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="dont_have_an_account">Dont Have An Account?</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="sign_in2">Sign In</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+
+    <string name="description">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
