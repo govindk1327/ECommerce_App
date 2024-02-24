@@ -119,8 +119,8 @@ public class HomeFragment extends Fragment {
 
         imageSlider.setImageList(slideModels);
 
-        progressDialog.setTitle(("Welcome To My ECommerce App"));
-        progressDialog.setMessage("please wait....");
+        progressDialog.setTitle(("Welcome To ShopSwift"));
+        progressDialog.setMessage("Please wait....");
         progressDialog.setCanceledOnTouchOutside(false);
         progressDialog.show();
 
