@@ -67,7 +67,7 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
         try {
             JSONObject options = new JSONObject();
             //Set Company Name
-            options.put("name", "My E-Commerce App");
+            options.put("name", "ShopSwift");
             //Ref no
             options.put("description", "Reference No. #123456");
             //Image to be display
@@ -82,9 +82,9 @@ public class PaymentActivity extends AppCompatActivity implements PaymentResultL
             options.put("amount", amount);
             JSONObject preFill = new JSONObject();
             //email
-            preFill.put("email", "developer.kharag@gmail.com");
+            preFill.put("email", "admin@gmail.com");
             //contact
-            preFill.put("contact", "7489347378");
+            preFill.put("contact", "74326751009");
 
             options.put("prefill", preFill);
 
